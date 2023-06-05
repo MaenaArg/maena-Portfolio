@@ -150,12 +150,6 @@ img.SiteWebPinkMuxu{
 	text-align:center;
 }
 
-img.netvibes{
-	width : 900px;
-	height : 470px;
-	text-align:center;
-}
-
 /* Pied de page */
 footer{
 	color: white;
